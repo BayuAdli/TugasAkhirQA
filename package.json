@@ -1,0 +1,25 @@
+{
+  "name": "tugasakhirqa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BayuAdli/TugasAkhirQA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BayuAdli/TugasAkhirQA/issues"
+  },
+  "homepage": "https://github.com/BayuAdli/TugasAkhirQA#readme",
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "cypress": "^14.3.2",
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "cypress-xpath": "^2.0.1"
+  }
+}
