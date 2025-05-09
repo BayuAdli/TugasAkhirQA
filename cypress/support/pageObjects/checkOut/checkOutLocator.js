@@ -1,0 +1,20 @@
+module.exports = {
+    listproduct : '//*[@id="tbodyid"]',
+    produk1 : '//*[@id="tbodyid"]/div[2]/div/div/h4/a',
+    namaProduk : '//*[@id="tbodyid"]/div[2]/div',
+    tombolAdd : '//*[@id="tbodyid"]/div[2]/div/a',
+    keranjang : '//*[@id="cartur"]',
+    validasiKeranjang : '//*[@id="page-wrapper"]/div/div[1]/h2',
+    tombolCO : '//*[@id="page-wrapper"]/div/div[2]/button',
+    produkKeranjang : '//*[@id="tbodyid"]/tr/td[2]',
+    fotoprodukKeranjang : '//*[@id="tbodyid"]/tr/td[1]',
+    validasiplaceorder : '//*[@id="orderModalLabel"]',
+    namaCustomer : '//*[@id="name"]',
+    negaraCustomer : '//*[@id="country"]',
+    kotaCustomer : '//*[@id="city"]',
+    kartuCredit : '//*[@id="card"]',
+    bulanCustomer : '//*[@id="month"]',
+    tahunCustomer : '//*[@id="year"]',
+    tombolPurchase : '//*[@id="orderModal"]/div/div/div[3]/button[2]',
+    validasiPurchase : '/html/body/div[9]/div[4]'
+}
